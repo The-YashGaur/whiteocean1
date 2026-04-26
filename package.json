@@ -1,0 +1,37 @@
+{
+  "name": "whiteocean",
+  "version": "1.0.0",
+  "description": "WhiteOcean - Multi-vendor e-commerce platform",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "ecommerce",
+    "multivendor",
+    "grocery"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/three": "^0.183.1",
+    "autoprefixer": "^10.5.0",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.8.0",
+    "next": "^16.2.3",
+    "postcss": "^8.5.9",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "recharts": "^3.8.1",
+    "sonner": "^2.0.7",
+    "tailwindcss": "^3.4.19",
+    "three": "^0.183.2",
+    "typescript": "^6.0.2",
+    "zustand": "^5.0.12"
+  }
+}
